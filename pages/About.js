@@ -89,17 +89,15 @@ const About = () => {
             income generating activities (IGAs).{" "}
           </Text>
 
-          <Text textAlign="left" marginTop="2">
-            <Heading as="h6" fontSize="lg">
-              Thematic Areas
-            </Heading>
-            <UnorderedList>
-              <ListItem>Health </ListItem>
-              <ListItem>Livelihood Support </ListItem>
-              <ListItem>Nutrition </ListItem>
-              <ListItem>Education </ListItem>
-            </UnorderedList>
-          </Text>
+          <Heading as="h5" fontSize="lg" marginTop="3">
+            Thematic Areas
+          </Heading>
+          <UnorderedList listStyleType="none" textAlign="center" marginTop="2">
+            <ListItem>Health </ListItem>
+            <ListItem>Livelihood Support </ListItem>
+            <ListItem>Nutrition </ListItem>
+            <ListItem>Education </ListItem>
+          </UnorderedList>
         </Flex>
       </Flex>
 

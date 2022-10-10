@@ -35,7 +35,7 @@ const Achievements = () => {
           alignItems="center"
           justifyContent="space-around"
           boxShadow="md"
-          padding="3"
+          padding="4"
           bgColor="green.100"
           color="teal.600"
         >
@@ -47,7 +47,7 @@ const Achievements = () => {
             justifyContent="center"
             objectFit="cover"
             borderRadius="50%"
-            overflow="4xl"
+            fontSize="4xl"
             color="green.800"
           >
             <GiOpenedFoodCan />
@@ -65,7 +65,7 @@ const Achievements = () => {
           alignItems="center"
           justifyContent="space-around"
           boxShadow="md"
-          padding="3"
+          padding="4"
           bgColor="purple.100"
           color="teal.600"
         >
@@ -77,7 +77,7 @@ const Achievements = () => {
             justifyContent="center"
             objectFit="cover"
             borderRadius="50%"
-            overflow="4xl"
+            fontSize="4xl"
             color="red.500"
           >
             <MdHealthAndSafety />
@@ -97,7 +97,7 @@ const Achievements = () => {
           alignItems="center"
           justifyContent="space-around"
           boxShadow="md"
-          padding="3"
+          padding="4"
           bgColor="whatsapp.300"
           color="teal.600"
         >
@@ -109,7 +109,7 @@ const Achievements = () => {
             justifyContent="center"
             objectFit="cover"
             borderRadius="50%"
-            overflow="4xl"
+            fontSize="4xl"
             color="blue.500"
           >
             <AiFillInsurance />
@@ -127,7 +127,7 @@ const Achievements = () => {
           alignItems="center"
           justifyContent="space-around"
           boxShadow="md"
-          padding="3"
+          padding="4"
           bgColor="twitter.50"
           color="teal.600"
         >
@@ -139,7 +139,7 @@ const Achievements = () => {
             justifyContent="center"
             objectFit="cover"
             borderRadius="50%"
-            overflow="4xl"
+            fontSize="4xl"
             color="green.900"
           >
             <GiHouse />
@@ -157,7 +157,7 @@ const Achievements = () => {
           alignItems="center"
           justifyContent="space-around"
           boxShadow="md"
-          padding="3"
+          padding="4"
           bgColor="pink.100"
           color="teal.600"
         >
@@ -169,7 +169,7 @@ const Achievements = () => {
             justifyContent="center"
             objectFit="cover"
             borderRadius="50%"
-            overflow="4xl"
+            fontSize="4xl"
             color="red.600"
           >
             <FaHandHoldingHeart />
@@ -187,7 +187,7 @@ const Achievements = () => {
           alignItems="center"
           justifyContent="space-around"
           boxShadow="md"
-          padding="3"
+          padding="4"
           bgColor="green.100"
           color="teal.600"
         >
@@ -199,7 +199,7 @@ const Achievements = () => {
             justifyContent="center"
             objectFit="cover"
             borderRadius="50%"
-            overflow="4xl"
+            fontSize="4xl"
             color="blue.500"
           >
             <GiHieroglyphLegs />

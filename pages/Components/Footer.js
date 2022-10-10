@@ -26,7 +26,7 @@ const Footer = () => {
         alignContent="center"
         alignItems="center"
         textAlign="center"
-        padding="1"
+        padding={(2, 1)}
         flexWrap={{ base: "wrap", sm: "wrap", lg: "nowrap" }}
         justifyContent={{ base: "space-around" }}
         color="teal.600"

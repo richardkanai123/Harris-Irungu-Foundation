@@ -8,3 +8,10 @@ const nextConfig = {
 };
 
 module.exports = nextConfig;
+
+module.exports = {
+  env: {
+    SERVICE_ID: "service_dlv4muq",
+    TEMPLATE_ID: "template_80omry3",
+  },
+};
